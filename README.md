@@ -17,6 +17,7 @@ Note:
 1. DISTINCT - Unique values
 2. COUNT - returns the number
 3. Comparison Operators - greater than, less than, equal to
+4. Logical Operators - Allows us to combine above comparison operators, these are the logical operators AND, OR, NOT
 
 # COMPARISON OPERATORS
 ![comparison operators](https://github.com/revanth-karra/PostgreSQL/assets/52368773/a4d8b7be-e053-49a0-92d7-cadda2f92afa)
