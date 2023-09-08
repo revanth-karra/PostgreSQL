@@ -10,6 +10,9 @@
 5. SELECT DISTINCT(first_name, last_name) FROM actor;
 6. SELECT COUNT(city) FROM city;
 7. SELECT COUNT(DISTINCT(city)) FROM city;
+8. SELECT first_name, last_name FROM actor WHERE first_name = 'Ed'
+9. SELECT first_name, last_name FROM actor WHERE last_name = 'Chase' AND first_name = 'Jon';
+10. SELECT * FROM rental WHERE customer_id >= 590 AND inventory_id > 4200 AND staff_id != 2
 ```
 
 Note: 
